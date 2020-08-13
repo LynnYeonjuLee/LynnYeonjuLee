@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there I'm Lynn!👋
+I am trying to love coding😜
 
+### About Me 
+- Blog: [My github Blog](LynnYeonjuLee.github.io)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LynnYeonjuLee)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LynnYeonjuLee/LynnYeonjuLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
